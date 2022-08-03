@@ -1,0 +1,13 @@
+.male {
+    background-color: blue;
+}
+
+.female {
+    background-color: pink;
+    font-size: 2em;
+}
+
+.unisex {
+    background-color: purple;
+    font-size: 1em;
+}
